@@ -1,0 +1,2 @@
+# python_professional
+シリコンバレー一流のプログラマーが教えるPythonプロフェッショナル大全
