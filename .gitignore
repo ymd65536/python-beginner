@@ -3,3 +3,4 @@ bin
 include
 lib
 __pycache__
+.DS_Store
